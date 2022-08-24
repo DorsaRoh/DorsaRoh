@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dorsa Rohani
 
-As an aspiring computer engineer, I am exploring the intersections between machine learning and world-wide impact.
+As an aspiring computer engineer, I am exploring the intersections between software development and robotics.
 
 
 - 👩🏻‍💻 I am an avid hackathon competitor, having won 7+ hackathons.
