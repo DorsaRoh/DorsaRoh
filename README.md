@@ -5,7 +5,7 @@ As an aspiring computer engineer, I am exploring the intersections between softw
 
 - 👩🏻‍💻 I am an avid hackathon competitor, having won 7+ hackathons.
 - 🌱 I am currently learning how to train ML models with Tensorflow and MatLab.
-- 💬 Reach out to me if you want to collab on a project, or for anything else.
+- 💬 I am fluent in both English and French.
 - 🎻 I love to play the cello for my local string orchestra ensemble.
 - ⚡️ I also love to tinker, build, design and explore circuitry and CAD.
 - 📫 How to reach me: dorsa.rohani@gmail.com
@@ -13,7 +13,19 @@ As an aspiring computer engineer, I am exploring the intersections between softw
 
 ## 🧰 Languages and Tools:
 <p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<!--- Python --> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"></code>
+<!--- Javascript --> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<!--- Java --> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></code>
+<!--- C++ --> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg"></code>
+<!--- C --> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
+<!--- HTML --> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
+<!--- CSS --> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"></code>
+
+<!--- MATLAB --> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
+<!--- VSCode --> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"></code>
+<!--- Git --> <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+<!--- Terminal --> <!---<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>-->
 </p>
+
+
+![Profile views](https://github.com/DorsaRoh)
