@@ -27,4 +27,4 @@ As an aspiring computer engineer, I am exploring the intersections between softw
 <!--- Terminal --> <!---<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>-->
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=DorsaRoh.DorsaRoh)
+<!--![](https://visitor-badge.laobi.icu/badge?page_id=DorsaRoh.DorsaRoh)-->
