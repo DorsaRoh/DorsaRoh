@@ -1,5 +1,5 @@
-### Hi there 👋🏼 I'm Dorsa Rohani
-
+## Hi there 👋🏼 I'm Dorsa Rohani
+<p>
 As an aspiring computer engineer, I am exploring the intersections between software development and robotics.
 
 
@@ -9,6 +9,7 @@ As an aspiring computer engineer, I am exploring the intersections between softw
 - 🎻 I love to play the cello for my local string orchestra ensemble.
 - ⚡️ I also love to tinker, build, design and explore circuitry and CAD.
 - 📫 How to reach me: dorsa.rohani@gmail.com
+  </p>
 
 ## 🧰 Languages and Tools:
 <p>
