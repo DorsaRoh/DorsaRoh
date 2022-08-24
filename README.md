@@ -28,3 +28,5 @@ As an aspiring computer engineer, I am exploring the intersections between softw
 </p>
 
 <!--![](https://visitor-badge.laobi.icu/badge?page_id=DorsaRoh.DorsaRoh)-->
+
+Here are some of my hackathon projects: https://devpost.com/dorsa-rohani
