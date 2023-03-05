@@ -4,5 +4,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorsaRoh&layout=compact&theme=algolia" alt="Top Languages" />
   <br></br>
 
-  Profile Views: ![Views](https://profile-counter.glitch.me/{DorsaRoh}/count.svg)
+<div align="center">
+  Profile Views:
+  ![Views](https://profile-counter.glitch.me/{DorsaRoh}/count.svg)
+ </div>
 <img src="https://komarev.com/ghpvc/?username=DorsaRoh&style=flat-square&color=blue" alt=""/>
