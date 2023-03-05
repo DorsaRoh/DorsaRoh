@@ -4,5 +4,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorsaRoh&layout=compact&theme=algolia" alt="Top Languages" />
   <br>
 
-![Views](https://profile-counter.glitch.me/{DorsaRoh}/count.svg)
 <img src="https://komarev.com/ghpvc/?username=DorsaRoh&style=flat-square&color=blue" alt=""/>
