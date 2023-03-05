@@ -6,6 +6,6 @@
 
 <div align="center">
   Profile Views:
-   </div>
-  ![Views](https://profile-counter.glitch.me/{DorsaRoh}/count.svg)
+</div>
+![Views](https://profile-counter.glitch.me/{DorsaRoh}/count.svg)
 <img src="https://komarev.com/ghpvc/?username=DorsaRoh&style=flat-square&color=blue" alt=""/>
