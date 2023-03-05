@@ -8,4 +8,3 @@
 
   
 <img src="https://komarev.com/ghpvc/?username=DorsaRoh&style=flat-square&color=blue" alt=""/>
-![Views](https://profile-counter.glitch.me/{DorsaRoh}/count.svg)
