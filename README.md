@@ -6,7 +6,6 @@
 
 ## Hi there 👋
 
-##
 <div align = "left">
 <img src="https://komarev.com/ghpvc/?username=DorsaRoh&style=flat-square&color=blue" alt=""/>
 </div>
