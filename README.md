@@ -1,5 +1,4 @@
 <div align = "center">
-  Hi there 👋
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=DorsaRoh&&show_icons=true&theme=algolia" alt="Github Stats" />
   <!---
