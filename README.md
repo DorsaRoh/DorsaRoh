@@ -16,7 +16,7 @@ I was named a <a href="https://top.mlh.io/2023/profiles/dorsa-rohani">MLH Top 50
 - Brainstorming startup ideas
 
 ### Contact Me
-I love meeting new people! Reach me via email (dorsa.rohani@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dorsarohani/)
+Let's connect! Reach me via email (dorsa.rohani@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dorsarohani/)
 
 <div align = "left">
 <img src="https://komarev.com/ghpvc/?username=DorsaRoh&style=flat-square&color=blue" alt=""/>
