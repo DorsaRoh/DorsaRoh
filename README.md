@@ -12,7 +12,7 @@ I was named a <a href="https://top.mlh.io/2023/profiles/dorsa-rohani">MLH Top 50
 
 ### What I'm Currently Working On
 - Building and experimenting with Neural Networks
-- Forging tangible solutions with Deep Learning 
+- Forging tangible real world solutions with Deep Learning 
 - Brainstorming startup ideas
 
 ### Contact Me
