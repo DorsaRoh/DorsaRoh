@@ -18,7 +18,9 @@ Previously, I was an AI Software Engineering Intern @ <a href="https://mecsimcal
 - Brainstorming startup ideas
 --->
 ### Contact Me
-Let's connect! Reach me via email (dorsa.rohani@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dorsarohani/)
+Let's connect! Reach me via [Email](dorsa.rohani@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dorsarohani/)
+
+https://dorsarohani.com/
 
 <div align = "left">
 <img src="https://komarev.com/ghpvc/?username=DorsaRoh&style=flat-square&color=blue" alt=""/>
