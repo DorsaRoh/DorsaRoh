@@ -10,7 +10,7 @@
 
 In 2023, I was named a <a href="https://top.mlh.io/2023/profiles/dorsa-rohani">MLH Top 50 Hacker</a> out of 150,000+ hackers around the world. 
 <br>
-Previously, I was an AI Software Engineering Intern @ <a href="https://mecsimcalc.com/">MecSimCalc</a> and a Machine Learning Engineer @ <a href="https://omdena.com/">Omdena</a>.
+Previously, I was an AI Software Engineering Intern @ <a href="https://mecsimcalc.com/">MecSimCalc</a> & a Machine Learning Engineer @ <a href="https://omdena.com/">Omdena</a>.
 <!---
 ### What I'm Currently Working On
 - Building Neural Networks from scratch
